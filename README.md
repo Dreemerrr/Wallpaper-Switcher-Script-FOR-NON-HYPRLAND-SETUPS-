@@ -9,7 +9,6 @@ You can either attach a custom keybind or run it through
 -------------------------------
 WHEN RUNNING FIRST TIME:
 Open your terminal and type:
--------------------------------
 chmod +x ./wallpaper-switcher.sh
 ./wallpaper-switcher.sh
 -------------------------------
