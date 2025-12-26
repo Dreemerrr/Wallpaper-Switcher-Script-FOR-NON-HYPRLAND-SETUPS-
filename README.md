@@ -11,5 +11,6 @@ When running first time:
 Open your terminal and type:
 
 chmod +x ./wallpaper-switcher.sh
+
 ./wallpaper-switcher.sh
 
